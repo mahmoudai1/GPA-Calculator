@@ -1,4 +1,4 @@
-#GPA Calculator
+# GPA Calculator
 
 • A calculator for calculating the GPA given Previous Credit Hours, Previous GPA, Current Courses' Credit Hours, and Current Courses' Grades<br/>
 • An ability to change the grade for the A- (either 3.67 or 3.7)
